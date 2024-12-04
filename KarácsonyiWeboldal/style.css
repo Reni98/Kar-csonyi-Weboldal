@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap');
+
+* {
+    font-family: "Yuji Mai", serif;
+}
+
+.logo {
+    width: 90px;
+    border-radius: 40px;
+}
+
+.mainpicture {
+    background-image: url(./kepek/shop1.jpg);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gift_shop {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    margin: 200px 140px 0 140px;
+}
