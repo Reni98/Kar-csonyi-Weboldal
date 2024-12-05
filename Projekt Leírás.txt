@@ -19,7 +19,7 @@ Téma:
 -Milyen témát választottatok a weboldalnak és miért?
 
 A munkafolyamat:
--Idősáv: Mikor kezdtétek, mennyi időt szántatok a szakaszok (2024.12.02-2024.12.16)
+-Idősáv: Mikor kezdtétek, mennyi időt szántatok a szakaszok, elkészítési határidő(2024.12.02-2024.12.16) bemutatás: 2024.12.18
 -Feladatok kiosztása: Ki mit csinált a csapatban?
 -Eszközök és nyelvek: Részletezés, hogy milyen technológiát használtatok
 
