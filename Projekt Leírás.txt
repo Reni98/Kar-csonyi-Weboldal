@@ -6,6 +6,7 @@
 6. Hogyan ment a kommunikáció
 7. Idősáv felírása
 8. Tovább fejlesztési lehetőségek
+9. Források
 
 Bevezetés:
 -Bemutatkozás
