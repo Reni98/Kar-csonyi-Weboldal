@@ -1,0 +1,36 @@
+1. Projeknév, csapattagok
+2. Weboldal neve,célja, téma
+3. Részletesebb leírás a weboldalról
+4. felhasznált nyelvek pl.: css,html,js,boostrap
+5. Feladatok kiosztása
+6. Hogyan ment a kommunikáció
+7. Idősáv felírása
+8. Tovább fejlesztési lehetőségek
+
+Bevezetés:
+-Bemutatkozás
+-Projekt rövid ismertetése
+
+A projekt célja:
+-Miért hoztátok létre a weboldalt(pl. informatív,szórakoztató, gyakorlati célok)
+-Kinek szól az oldal(célközönség)
+
+Téma:
+-Milyen témát választottatok a weboldalnak és miért?
+
+A munkafolyamat:
+-Idősáv: Mikor kezdtétek, mennyi időt szántatok a szakaszok (2024.12.02-2024.12.16)
+-Feladatok kiosztása: Ki mit csinált a csapatban?
+-Eszközök és nyelvek: Részletezés, hogy milyen technológiát használtatok
+
+Weboldal bemutatása:
+-A weboldal szerekezete: Fő oldalak, navigáció, elrendezés bemutatás
+-Kiemelkedő funkciók(pl.: reszponzív design, animációk)
+-Képek, videók a kész oldalról
+
+Tanulságok:
+-Mit tanultatok a projekt során(pl.:új technológiák, együttműködés, időbeosztás)
+
+Jövőbeli tervek:
+-Hogyan fejlesztenétek tovább az oldalt?
+
