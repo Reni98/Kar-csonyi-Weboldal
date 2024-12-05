@@ -34,3 +34,6 @@ Tanulságok:
 Jövőbeli tervek:
 -Hogyan fejlesztenétek tovább az oldalt?
 
+Források:
+-Projekthez felhasznált oldalak
+
